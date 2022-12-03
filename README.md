@@ -38,5 +38,8 @@ In the project, I used data per service to manage data so that database also wil
 > 
 > >>> services:  handle business user case of the service
 > 
->  >>>> repositories:  interact with directly with database to manipulate
-> 
+>  >>> repositories:  interact with directly with database to manipulate
+>
+> >>> shared: definite common method for project
+>
+> >>> proto: contain proto file
